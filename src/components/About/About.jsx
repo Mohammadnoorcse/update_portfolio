@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
-import profileImg from '/src/assets/profile.png';
+import profileImg from '../../assets/profile.png'; // fixed relative import
 
 const About = () => {
   return (
@@ -55,7 +55,6 @@ const About = () => {
           >
             DOWNLOAD CV
           </a>
-          
         </div>
         {/* Right Side */}
         <div className="md:w-1/2 flex justify-center">
