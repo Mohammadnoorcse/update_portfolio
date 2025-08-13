@@ -44,7 +44,7 @@ import urcLogo from './assets/education_logo/urc.jpg';
 import dewparaLogo from './assets/education_logo/dewpara.jpg';
 
 // Project Section Logo's
-import shongkolpoLogo from './assets/work_logo/songkolpo.PNG';
+import shongkolpoLogo from './assets/work_logo/songkolpo.png';
 import qsacademyLogo from './assets/work_logo/qsacademy.png';
 import rokomiiLogo from './assets/work_logo/rokomii.png';
 import restaurantsnoor from './assets/work_logo/restaurants-noor.png';
