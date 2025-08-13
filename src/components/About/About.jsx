@@ -56,7 +56,8 @@ const About = () => {
             DOWNLOAD CV
           </a>
         </div>
-        {/* Right Side */}
+
+        {/* Right Side.. */}
         <div className="md:w-1/2 flex justify-center">
           <Tilt
             className="w-48 h-48 sm:w-64 sm:h-64 md:w-[25rem] md:h-[25rem] border-4 border-purple-700 rounded-full "
